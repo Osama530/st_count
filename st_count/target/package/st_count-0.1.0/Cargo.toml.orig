@@ -1,6 +1,6 @@
 [package]
 name = "st_count"
-version = "0.1.1"
+version = "0.1.0"
 authors = ["osama qamar"]
 edition = "2018"
 discription = "library to count characters and special characters in a string like spaces, vovels, consonents e.t.c"
