@@ -2,5 +2,6 @@
 # It is not intended for manual editing.
 [[package]]
 name = "st_count"
-version = "0.1.0"
+version = "0.1.1"
 
+fifed
